@@ -1,7 +1,5 @@
 print("Svetlana")
-
-print("result" "=" "(2**5+10)*3-15)")
-print("result" "=" "(32+10)*5-15)")
-print("result" "=" "42*3-15")
-print("result" "=" "126-15")
+a=2**5
+b=10
+print((a+b)*3-15)
 print("result" "=" "111")
