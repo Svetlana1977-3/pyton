@@ -19,3 +19,10 @@ myList = ["Светлана", "47", "Да"]
 mySet = set(myList)
 myList = list(mySet)
 print(myList)
+
+#11/05/2025
+x = float(input("введите число: "))
+if -9 < x < 2:
+    print("число находится в интервале (-9; 2)")
+else:
+    print("число НЕ находится в интервале (-9; 2)")
